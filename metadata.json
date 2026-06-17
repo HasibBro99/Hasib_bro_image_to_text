@@ -1,0 +1,6 @@
+{
+  "name": "HASIB Bro",
+  "description": "Advanced multimodal document scanner and OCR engine for Bengali and English PDFs and images, with dynamic prompt-directed content extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
